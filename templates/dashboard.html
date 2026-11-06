@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MilkMate | Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<div class="sidebar">
+    <h2>🥛 MilkMate</h2>
+    <a href="/dashboard" class="active">Dashboard</a>
+    <a href="/customers">Customers</a>
+    <a href="/deliveries">Deliveries</a>
+    <a href="/billing">Billing</a>
+    <a href="/payments">Payments</a>
+    <a href="/inventory">Inventory</a>
+</div>
+
+<div class="main">
+    <header>
+        <div>
+            <h1>Dashboard</h1>
+            <p>Welcome back! Manage your milk business.</p>
+        </div>
+        <span>Vendor Panel</span>
+    </header>
+
+    <div class="cards">
+        <div class="card">
+            <h3>Total Customers</h3>
+            <h2>{{ total_customers }}</h2>
+        </div>
+
+        <div class="card">
+            <h3>Today's Deliveries</h3>
+            <h2>{{ total_deliveries }}</h2>
+        </div>
+
+        <div class="card">
+            <h3>Milk Delivered</h3>
+            <h2>{{ total_milk }} L</h2>
+        </div>
+
+        <div class="card">
+            <h3>Total Revenue</h3>
+            <h2>₹{{ total_revenue }}</h2>
+        </div>
+    </div>
+
+    <div class="welcome">
+        <h2>Welcome to MilkMate 🥛</h2>
+        <p>Manage your customers, deliveries, bills and payments in one place.</p>
+        <a href="/customers">Manage Customers</a>
+    </div>
+</div>
+
+</body>
+</html>
