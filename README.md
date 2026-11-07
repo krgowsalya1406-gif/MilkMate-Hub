@@ -120,6 +120,3 @@ To digitize traditional milk delivery businesses by reducing manual paperwork, i
 
 **K.R. Gowsalya**
 
-
-
-⭐ If you find this project useful, consider giving it a star!
