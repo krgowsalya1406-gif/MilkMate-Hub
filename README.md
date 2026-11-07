@@ -118,7 +118,7 @@ To digitize traditional milk delivery businesses by reducing manual paperwork, i
 
 ## 👩‍💻 Developer
 
-**K.R. Kaushalya**
+**K.R. Gowsalya**
 
 Full Stack Developer | Student Project
 
