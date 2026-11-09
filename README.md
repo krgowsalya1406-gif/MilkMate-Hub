@@ -234,21 +234,8 @@ The application can use the following MySQL tables:
 - Multi-vendor dairy management.
 - AI-powered business recommendations.
 
----
 
-## 📸 Screenshots
 
-Add your project screenshots here:
-
-| Dashboard | Customer Management |
-|---|---|
-| Add dashboard screenshot | Add customer screenshot |
-
-| Delivery Tracking | Billing Management |
-|---|---|
-| Add delivery screenshot | Add billing screenshot |
-
----
 
 ## 👩‍💻 Developer
 
@@ -259,26 +246,7 @@ Add your project screenshots here:
 <p align="center">
   **K.R. Gowsalya**
   
-  Computer Science and Engineering Student
   
-  Interested in Full Stack Development, Python, and AI & ML.
-</p>
-
-<p align="center">
-  <a href="https://github.com/krgowsalya1406-gif">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/gowsalya-k-r-160037363/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  **🥛 MilkMate – Fresh Milk, Smart Management!**
-  
-  *Deliver Freshness. Manage Smarter. Grow Together.*
   
   ⭐ If you like this project, consider giving it a star!
 </p>
