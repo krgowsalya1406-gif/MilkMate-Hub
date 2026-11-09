@@ -190,61 +190,7 @@ MilkMate/
     └── schema.sql
 ```
 
----
 
-## ⚙️ Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/USERNAME/MilkMate.git
-```
-
-### 2. Navigate to the Project
-
-```bash
-cd MilkMate
-```
-
-### 3. Create a Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-### 4. Activate the Environment
-
-**Windows:**
-
-```bash
-venv\Scripts\activate
-```
-
-### 5. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 6. Configure MySQL
-
-- Create a database named `milk_mate`.
-- Execute the SQL commands from `database/schema.sql`.
-- Configure your database credentials using environment variables.
-
-### 7. Run the Application
-
-```bash
-python app.py
-```
-
-### 8. Open in Browser
-
-```text
-http://127.0.0.1:5000/
-```
-
----
 
 ## 🗄️ Database Modules
 
