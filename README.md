@@ -243,10 +243,4 @@ The application can use the following MySQL tables:
   <img src="https://img.shields.io/badge/Developed%20By-K.R.%20Gowsalya-16A34A?style=for-the-badge" />
 </p>
 
-```html
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=24&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=750&lines=🤖+AI+Milk+Demand+Prediction;🚚+Smart+Delivery+Optimization;🥛+QR+Milk+Delivery+Tracking;♻️+Digital+Bottle+Passport;💰+Automated+Monthly+Billing;🌱+Green+Dairy+Rewards" />
-
-</div>
-```
