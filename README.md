@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Project-MilkMate-16A34A?style=for-the-badge&logo=milk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Flask-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Development-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Under development-success?style=for-the-badge" />
 </p>
 
 <p align="center">
