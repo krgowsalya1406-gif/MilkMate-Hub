@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  **Smart & Simple Management for Milk Delivery Businesses**
+  Smart & Simple Management for Milk Delivery Businesses
   
   Digitize your dairy business. Simplify deliveries. Automate billing.
 </p>
